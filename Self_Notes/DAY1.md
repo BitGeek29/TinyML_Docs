@@ -19,3 +19,13 @@ In 2001, 200 million tax dollars were spent on picking up litter nationwide. The
 ### Conslusion:-
 
 We are only going to create and train the model not the hardware.
+
+
+
+
+### DAY-1 Notes
+
+MicroHD: An Accuracy-Driven Optimization of Hyperdimensional Computing algorithms for TinyML systems.
+
+
+Link Here - https://cms.tinyml.org/wp-content/uploads/summit2024/Flavio-Ponzina.pdf
